@@ -8,7 +8,7 @@ www.johnmquick.com
 DESCRIPTION
 ============
 
-The Teleportation Prototype demonstrates a design concept for a three-dimensional (3D) first-person navigation system. It is intended for use in virtual and augmented reality experiences. 
+The Teleportation Prototype demonstrates a design concept for a three-dimensional (3D) first-person navigation system. It is intended for use in virtual and augmented reality experiences. It features gesture-based input using the Leap Motion Controller.
 
 ============
 INSTRUCTIONS
